@@ -1,4 +1,4 @@
-#Conversor de números a binarios:
+# Conversor de números a binarios:
 
 **Para la realización de este programa hemos apostado por no solamente poder convertir números positivos en códigods bionarios sinó que también logramos convertir las cifras negativas**
 
